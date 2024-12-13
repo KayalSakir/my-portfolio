@@ -29,7 +29,9 @@ Tools Used: Git, Markdown
 Overview: Built and refined a personal GitHub portfolio to showcase completed projects, skills, and academic progress. The portfolio highlights technical abilities and serves as a platform for future opportunities.
 Skills Demonstrated: Professional presentation, self-promotion, and Git version control.
 3. Fitness Buddy: Project Proposal
-![Fitness Buddy Mockup](Screenshot 2024-12-14 015813.png)
+
+   
+(Screenshot 2024-12-14 015813.png)
 Tools Used: Microsoft Word, Harvard Referencing
 Overview: Designed a detailed project proposal for a mobile app, Fitness Buddy, combining fitness tracking and mindfulness features. Included comprehensive problem statements, objectives, descriptions, and reflective summaries in alignment with academic requirements.
 Skills Demonstrated: Proposal writing, research, and technical creativity.
