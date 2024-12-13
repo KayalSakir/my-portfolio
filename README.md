@@ -16,3 +16,19 @@
 🏀 Basketball: Playing and practicing regularly.
 📖 Reading: Exploring books on technology, self-improvement, and fiction.
 🎮 Gaming: Immersing myself in computer games to unwind and get inspired by game mechanics.
+
+# Projects Completed
+## Here are some of the projects I have completed to showcase my technical skills:
+
+1. Digital Storytelling Presentation
+Tools Used: PowerPoint, Research Tools
+Overview: Collaborated in a group to develop a six-minute Digital Story about a chosen topic related to Wellbeing & Fitness. Designed slides, automated transitions, and wrote a compelling narrative that was peer-reviewed for impact and clarity.
+Skills Demonstrated: Team collaboration, creative storytelling, and multimedia presentation skills.
+2. GitHub Portfolio
+Tools Used: Git, Markdown
+Overview: Built and refined a personal GitHub portfolio to showcase completed projects, skills, and academic progress. The portfolio highlights technical abilities and serves as a platform for future opportunities.
+Skills Demonstrated: Professional presentation, self-promotion, and Git version control.
+3. Fitness Buddy: Project Proposal
+Tools Used: Microsoft Word, Harvard Referencing
+Overview: Designed a detailed project proposal for a mobile app, Fitness Buddy, combining fitness tracking and mindfulness features. Included comprehensive problem statements, objectives, descriptions, and reflective summaries in alignment with academic requirements.
+Skills Demonstrated: Proposal writing, research, and technical creativity.
