@@ -32,3 +32,6 @@ Skills Demonstrated: Professional presentation, self-promotion, and Git version 
 Tools Used: Microsoft Word, Harvard Referencing
 Overview: Designed a detailed project proposal for a mobile app, Fitness Buddy, combining fitness tracking and mindfulness features. Included comprehensive problem statements, objectives, descriptions, and reflective summaries in alignment with academic requirements.
 Skills Demonstrated: Proposal writing, research, and technical creativity.
+
+📫 Email: kayalsakir24@gmail.com
+🌐 GitHub: https://github.com/KayalSakir
